@@ -1,0 +1,61 @@
+                                                                DATASET IMDB MOVIES - AUTHOR SBC CONFERENCIA PAPERS
+                                                                AND ABSTRACT
+                                                      DEPARTAMENTO DE COMPUTAÇÃO- UNIVERSIDADE FEDERAL DO RIO DE JANEIRO (UFRJ)
+                                                      ILHA DO GOVERNADOR- AV ATHOS DA SILVEIRA RJ, 21941-909
+                                                                  integrantes do grupo: Renata de frança rodrigues
+
+Nós escolhemos o dataset IMDb movies, para explicarmos um pouco melhor como esse mundo dessa categoria de imdb movies funciona
+para isso destacamos algumas séries e filmes sobre imdb movies.                                                               
+
+pd.import.pandas  
+
+LINK DO POSTER 
+//www.google.com/search?q=poster+la+casa+de+papel&rlz=1C1SQJL_pt-BRBR1069BR1069&oq=poster+la+casa+de+papel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTI 
+https://www.google.com/search?q=mamma+mia+link+do+poster&rlz=1C1SQJL_pt-BRBR1069BR1069&oq=mamma+mia+link+do+poster&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTQ2OTk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF
+oogle.com/search?q=poster+o+diabo+veste+prada&newwindow=1&sca_esv=5c0a928f80fb24e1&rlz=1C1SQJL_pt-BRBR1069BR1069&biw=1364&bih=647&sxsrf=ADLYWIKtJSR6VHpO38xM1xQEntG3_GUUbQ%3A1731960271455&ei=z507Z4O4G9nK1sQPxevp-QE&ved=0ahUKEwjD2_rl1uaJAxVZpZUCHcV1Oh8Q4dUDCA8&uact=5&oq=poster+o+diabo+veste+prada&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnBvc3RlciBvIGRpYWJvIHZlc3RlIHByYWRhMgUQABiABDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYogQYiQVIk8ECUPMNWOStAnABeAGQAQCYAbEXoAGkuwGqAREwLjEuNS4xLjEuNi4xLjktN7gBA8gBAPgBAZgCEKAC1KMBwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAhYQLhiABBiwAxhDGNQCGMgDGIoF2AEBwgIZEC4YgAQYsAMY0QMYQxjHARjIAxiKBdgBAcICChAAGIAEGEMYigXCAggQABiABBixA8ICDhAAGIAEGLEDGIMBGIoFwgIGEAAYFhgewgIIEAAYFhgKGB7CAgcQABiABBgNmAMAiAYBkAYQugYGCAEQARgIkgcRMS4wLjQuMS4yLjAuMS4yLjWgB-Rm&sclient=gws-wiz-serp/
+https://www.google.com/search?q=poster+jurassic+park&newwindow=1&sca_esv=5c0a928f80fb24e1&rlz=1C1SQJL_pt-BRBR1069BR1069&biw=1364&bih=647&sxsrf=ADLYWIItdAyWlsowp0RfRiijT8y90gCjBA%3A1731960013142&ei=zZw7Z7SNCOnV1s
+TITULO-DO-FILME
+La casa de papel
+Mamma mia
+O diabo veste prada
+jurassic park
+ANO-DE-LANÇAMENTO
+2017
+2008
+2006
+1993
+CERTICADO_DO_FILME
+não há muita informação sobre um certificado de la casa de papel
+Mamma mia, é um filme musical de 2008 realizado por Phyllia Lloyd e Benny Andersson e Bjorn ulvaeus. Tanto a peça quanto o filme foram baseados nas canções 
+do grupo abba, que fez e faz sucesso até hoje cujo o filme teve derivada da canção mamma mia de 1945.
+TEMPO_DE_EXECUÇÃO
+41-76 minutos
+1h e 48 minutos
+1h e 49 minutos
+2h e 7 minutos
+GÊNERO
+Drama e suspense
+Musical
+comédia dramatica
+aventura e ficçção ciêntifica
+CLASSIFICAÇÃO IMDB:
+Money heist
+PG-13
+6.9 a 10 imdb
+8.2
+VISÃO GERAL
+Essa serie conta a historia de oito ladrões, que se trancam com reféns na casa da moeda na espanha
+Mamma mia, é uma comédia musical, que conta a historia de uma mãe solteira que enfrenta uma saia justa quando a filha convida três ex amantes dela para o 
+seu casamento. O filme o diabo veste prada aborda temas como integridade pessoal e profissional, e destaca questões éticas no ambinte de trabalho 
+O filme também mostra que líderes abusivos podem criar um ambiente de trabalho tóxicos  opreensivo. O filme conta a historia de um parque temático onde dinoussauro ixtintos vivem 65 milhões de anos em harmonia. A descoberta se torna possibilizada de criar
+os dinoussauros em laboratorio depois a descoberta de um inseto fosilizado que sugou o sangue dos dinoussauros. No entanto a experiencia sai do controle dos criadores.
+META_PONTUAÇÃO    
+Não há muita informação sobre pontuação sobre la casa de papel
+mamma mia, tem 51 a 100 pontuações de metacriticas
+recbu uma nota de 8,1 na rolling stone 
+O diabo veste prada, tem um índice de 75% de aprovação, e 70% de audiencia
+DIRETOR
+Álex pina
+Phyllida Lloyd
+David frankel 
+Steven Spiberlg
